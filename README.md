@@ -46,7 +46,7 @@ That's it.
 ## Example
 
 Before — a folder with random files dumped in it. After running the script:
-
+<img width="1800" height="1169" alt="Screenshot 2026-02-26 at 11 22 20 PM" src="https://github.com/user-attachments/assets/b3e09d23-2764-4136-9800-d6dc661b028b" />
 Everything sorted into its own folder in one shot.
 
 ---
